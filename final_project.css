@@ -334,7 +334,7 @@ footer{
     width: 50%;
     padding: 1.6%;
     height: 450px;
-    background-color: #A0B57D;
+    background-color: #41B3A3;
 }
 
 @media  screen and (max-width: 576px) {
@@ -348,7 +348,7 @@ footer{
     width: 50%;
     padding: 1.6%;
     height: 450px;
-    background-color: darkolivegreen;
+    background-color: #85dcb8;
 }
 
 .Column_tall{
